@@ -15,4 +15,4 @@ To get the authorisation working:
 Running the script
 ------------------
 
-Navigate to the folder in which google-sheet-dl.py is located and run "python google-sheet-dl.py \<export directory> \<file 1> [\<file 2> ... \<file n>]"
+Navigate to the folder in which `google-sheet-dl.py` is located and run `python google-sheet-dl.py <export directory> <file 1> [<file 2> ... <file n>]`
